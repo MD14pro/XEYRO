@@ -1,0 +1,33 @@
+#VRML V2.0 utf8
+# KiCad 10 3D Model for ESP32-S3 Smart Glasses PCB
+Transform {
+  translation 0.00000 0.00000 0.06890
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.200 0.180 0.160
+          specularColor 0.3 0.3 0.3
+          shininess 0.3
+        }
+      }
+      geometry Box { size 0.78740 0.62992 0.13780 }
+    }
+  ]
+}
+
+Transform {
+  translation 0.00000 0.00000 0.17323
+  children [
+    Shape {
+      appearance Appearance {
+        material Material {
+          diffuseColor 0.850 0.720 0.300
+          specularColor 0.3 0.3 0.3
+          shininess 0.3
+        }
+      }
+      geometry Box { size 0.70866 0.55118 0.07087 }
+    }
+  ]
+}

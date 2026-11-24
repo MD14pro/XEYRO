@@ -1,0 +1,14 @@
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-F_Cu.gbr'.
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-In1_Cu.gbr'.
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-In2_Cu.gbr'.
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-B_Cu.gbr'.
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-F_Paste.gbr'.
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-B_Paste.gbr'.
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-F_Mask.gbr'.
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-B_Mask.gbr'.
+Plotted to 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-Edge_Cuts.gbr'.
+Error: Board stackup settings not up to date.
+Created Gerber job file 'C:\Users\MUDDASSIR\OneDrive\Desktop\ExTC Study\Project vision\Glass\xeyro_v1_4_final\subproject_1_clipon_single_temple\esp32s3_glasses_cam-job.gbrjob'.
+Info: Done.

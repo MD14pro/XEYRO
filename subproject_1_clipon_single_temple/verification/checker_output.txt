@@ -1,0 +1,24 @@
+========================================================================
+OWN GEOMETRY & PARITY CHECKER OUTPUT (NOT KiCad DRC / NOT KiCad ERC)
+========================================================================
+PCB format version      : 20241229 (generator_version 10.0)
+PCB counts              : 59 footprints, 1630 segments, 155 vias
+Via size breakdown      : {(0.45, 0.2): 104, (0.4, 0.2): 51}
+Clearance violations    : 0 (rule >= 0.127 mm)
+Minimum clearance       : 0.1300 mm -> ('pad-pad', 'L2.1(RF_MATCH)', 'C_X2.2(GND)', 0.13)
+Shorts (< 0 mm)         : 0
+Opens (unconnected)     : 0 []
+Dangling track ends     : 0 []
+Min copper-to-edge      : 0.2600 mm (rule >= 0.250 mm)
+Via-in-pad (center in)  : 1 -> [('U1.57', (26.5, 4.5))]
+Antenna keepout items   : 0 vias, 0 segments inside (0..3.3, 5.5..10.0)
+RF_ANT                  : 1.66 mm, widths=[0.22, 0.25] mm, layers=['F.Cu']
+RF_MATCH                : 37.73 mm, widths=[0.3, 0.35] mm, layers=['F.Cu']
+RF total                : 39.39 mm, vias=0
+GND vias near RF (<=1mm): 8 of 35 -> [(1.05, 1.15), (1.05, 2.2), (4.35, 6.5), (4.8, 6.8), (14.05, 2.7), (15.52, 3.25), (18.1, 3.05), (21.68, 0.5)]
+USB D+ total            : 31.39 + 6.12 = 37.50 mm
+USB D- total            : 27.59 + 6.84 = 34.43 mm
+USB delta               : 3.08 mm
+Power track widths (mm) : {'VBAT': [0.3], 'VSYS': [0.3], '+5V_USB': [0.2, 0.22, 0.25], '+3V3': [0.13, 0.15, 0.16, 0.2, 0.22, 0.25, 0.3], '+2V8': [0.16, 0.25], '+1V2': [0.25]}
+Schematic <-> PCB parity: 222 pins checked, 0 mismatches []
+KiCad ERC / DRC / Plot  : NOT VERIFIED (owner must run in KiCad 10)
